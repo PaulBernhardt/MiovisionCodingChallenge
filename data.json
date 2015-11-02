@@ -1,0 +1,997 @@
+[
+  {
+    "region": 5,
+    "time": 1434561257.0900116,
+    "vehicle": "4ba33c37"
+  },
+  {
+    "region": 1,
+    "time": 1434570849.315294,
+    "vehicle": "1559eb78"
+  },
+  {
+    "region": 3,
+    "time": 1434572719.6712081,
+    "vehicle": "b9d37ce1"
+  },
+  {
+    "region": 5,
+    "time": 1434552260.0258896,
+    "vehicle": "190ff0f1"
+  },
+  {
+    "region": 6,
+    "time": 1434551182.812809,
+    "vehicle": "04fe6750"
+  },
+  {
+    "region": 3,
+    "time": 1434577610.5230947,
+    "vehicle": "a51b612f"
+  },
+  {
+    "region": 6,
+    "time": 1434548482.9195826,
+    "vehicle": "efb74415"
+  },
+  {
+    "region": 1,
+    "time": 1434548131.4671373,
+    "vehicle": "bc85c0ff"
+  },
+  {
+    "region": 4,
+    "time": 1434555215.0283601,
+    "vehicle": "03adf33e"
+  },
+  {
+    "region": 3,
+    "time": 1434576609.7375202,
+    "vehicle": "8ca29eb3"
+  },
+  {
+    "region": 8,
+    "time": 1434555217.9353383,
+    "vehicle": "03adf33e"
+  },
+  {
+    "region": 7,
+    "time": 1434555579.9043434,
+    "vehicle": "5fdb6402"
+  },
+  {
+    "region": 3,
+    "time": 1434553205.3481238,
+    "vehicle": "cccfe300"
+  },
+  {
+    "region": 2,
+    "time": 1434550369.622265,
+    "vehicle": "04a0b10e"
+  },
+  {
+    "region": 1,
+    "time": 1434552682.5334325,
+    "vehicle": "79642d23"
+  },
+  {
+    "region": 8,
+    "time": 1434543176.876856,
+    "vehicle": "2c040ebc"
+  },
+  {
+    "region": 7,
+    "time": 1434547931.528595,
+    "vehicle": "eb4eec44"
+  },
+  {
+    "region": 7,
+    "time": 1434545155.0432568,
+    "vehicle": "8f3ff020"
+  },
+  {
+    "region": 4,
+    "time": 1434551122.3358576,
+    "vehicle": "a51b612f"
+  },
+  {
+    "region": 8,
+    "time": 1434577097.8568213,
+    "vehicle": "9fb77499"
+  },
+  {
+    "region": 2,
+    "time": 1434554721.4530816,
+    "vehicle": "14ffd2fa"
+  },
+  {
+    "region": 4,
+    "time": 1434569886.3398373,
+    "vehicle": "c9e53164"
+  },
+  {
+    "region": 1,
+    "time": 1434577094.2149527,
+    "vehicle": "9fb77499"
+  },
+  {
+    "region": 7,
+    "time": 1434561667.7109647,
+    "vehicle": "5b52e834"
+  },
+  {
+    "region": 5,
+    "time": 1434573838.3291886,
+    "vehicle": "a554e625"
+  },
+  {
+    "region": 2,
+    "time": 1434570479.8202412,
+    "vehicle": "63dee3ed"
+  },
+  {
+    "region": 3,
+    "time": 1434573859.4132214,
+    "vehicle": "a2a185eb"
+  },
+  {
+    "region": 3,
+    "time": 1434552660.9954498,
+    "vehicle": "7f0ba189"
+  },
+  {
+    "region": 3,
+    "time": 1434554136.3227577,
+    "vehicle": "7a208773"
+  },
+  {
+    "region": 4,
+    "time": 1434567826.4819648,
+    "vehicle": "9b908fcf"
+  },
+  {
+    "region": 1,
+    "time": 1434546284.2562845,
+    "vehicle": "1c848b10"
+  },
+  {
+    "region": 5,
+    "time": 1434567827.6331809,
+    "vehicle": "9b908fcf"
+  },
+  {
+    "region": 4,
+    "time": 1434547143.5340874,
+    "vehicle": "425e9134"
+  },
+  {
+    "region": 6,
+    "time": 1434558433.0894945,
+    "vehicle": "5e8ea5a0"
+  },
+  {
+    "region": 3,
+    "time": 1434555579.2222807,
+    "vehicle": "5fdb6402"
+  },
+  {
+    "region": 3,
+    "time": 1434561513.3130956,
+    "vehicle": "1292e297"
+  },
+  {
+    "region": 8,
+    "time": 1434570849.6562495,
+    "vehicle": "1559eb78"
+  },
+  {
+    "region": 2,
+    "time": 1434556091.2152584,
+    "vehicle": "f9639480"
+  },
+  {
+    "region": 2,
+    "time": 1434562430.6326466,
+    "vehicle": "b24984ef"
+  },
+  {
+    "region": 8,
+    "time": 1434557195.807655,
+    "vehicle": "902cd13a"
+  },
+  {
+    "region": 1,
+    "time": 1434548002.523345,
+    "vehicle": "1bed88d7"
+  },
+  {
+    "region": 3,
+    "time": 1434572001.29472,
+    "vehicle": "d5f2f451"
+  },
+  {
+    "region": 5,
+    "time": 1434554137.743552,
+    "vehicle": "7a208773"
+  },
+  {
+    "region": 4,
+    "time": 1434545492.6667678,
+    "vehicle": "5eacc46c"
+  },
+  {
+    "region": 7,
+    "time": 1434561515.1475232,
+    "vehicle": "1292e297"
+  },
+  {
+    "region": 8,
+    "time": 1434578286.3119369,
+    "vehicle": "64314914"
+  },
+  {
+    "region": 6,
+    "time": 1434572722.1540692,
+    "vehicle": "b9d37ce1"
+  },
+  {
+    "region": 6,
+    "time": 1434575665.3397107,
+    "vehicle": "a9fe8ed0"
+  },
+  {
+    "region": 8,
+    "time": 1434562142.2230554,
+    "vehicle": "c7fe346e"
+  },
+  {
+    "region": 3,
+    "time": 1434553659.540274,
+    "vehicle": "13d11705"
+  },
+  {
+    "region": 1,
+    "time": 1434551471.6674542,
+    "vehicle": "78138b86"
+  },
+  {
+    "region": 2,
+    "time": 1434574164.567872,
+    "vehicle": "f7242538"
+  },
+  {
+    "region": 5,
+    "time": 1434545032.2004383,
+    "vehicle": "328dad79"
+  },
+  {
+    "region": 1,
+    "time": 1434548854.5886889,
+    "vehicle": "0d240aaf"
+  },
+  {
+    "region": 1,
+    "time": 1434550343.0025659,
+    "vehicle": "4e9f8488"
+  },
+  {
+    "region": 3,
+    "time": 1434575663.5348039,
+    "vehicle": "a9fe8ed0"
+  },
+  {
+    "region": 3,
+    "time": 1434563813.9456985,
+    "vehicle": "64dbd6f0"
+  },
+  {
+    "region": 3,
+    "time": 1434559108.23461,
+    "vehicle": "db897666"
+  },
+  {
+    "region": 6,
+    "time": 1434550323.3841546,
+    "vehicle": "9d68f799"
+  },
+  {
+    "region": 8,
+    "time": 1434553291.3990552,
+    "vehicle": "a840affd"
+  },
+  {
+    "region": 1,
+    "time": 1434558431.4483786,
+    "vehicle": "5e8ea5a0"
+  },
+  {
+    "region": 5,
+    "time": 1434547765.7021008,
+    "vehicle": "de5d0080"
+  },
+  {
+    "region": 6,
+    "time": 1434542957.4517636,
+    "vehicle": "dcd3fc5f"
+  },
+  {
+    "region": 5,
+    "time": 1434547840.2939043,
+    "vehicle": "41e29e92"
+  },
+  {
+    "region": 8,
+    "time": 1434555993.7311387,
+    "vehicle": "d2ab3b6a"
+  },
+  {
+    "region": 6,
+    "time": 1434544947.095951,
+    "vehicle": "d6d639b2"
+  },
+  {
+    "region": 5,
+    "time": 1434552958.688644,
+    "vehicle": "e4009f67"
+  },
+  {
+    "region": 3,
+    "time": 1434558411.0265062,
+    "vehicle": "df7ed65f"
+  },
+  {
+    "region": 8,
+    "time": 1434556970.7925956,
+    "vehicle": "a2952105"
+  },
+  {
+    "region": 4,
+    "time": 1434549532.3280575,
+    "vehicle": "44d5a58c"
+  },
+  {
+    "region": 2,
+    "time": 1434542955.3202534,
+    "vehicle": "dcd3fc5f"
+  },
+  {
+    "region": 6,
+    "time": 1434559281.7822149,
+    "vehicle": "e104e8cf"
+  },
+  {
+    "region": 7,
+    "time": 1434548131.577881,
+    "vehicle": "bc85c0ff"
+  },
+  {
+    "region": 6,
+    "time": 1434572159.1702526,
+    "vehicle": "05223ddf"
+  },
+  {
+    "region": 7,
+    "time": 1434543871.5371714,
+    "vehicle": "5d9c8b55"
+  },
+  {
+    "region": 5,
+    "time": 1434567746.8044753,
+    "vehicle": "3b90d2ec"
+  },
+  {
+    "region": 2,
+    "time": 1434553358.3128872,
+    "vehicle": "d6920623"
+  },
+  {
+    "region": 3,
+    "time": 1434573141.5740366,
+    "vehicle": "1696c4ec"
+  },
+  {
+    "region": 4,
+    "time": 1434578363.3426342,
+    "vehicle": "b43fca2b"
+  },
+  {
+    "region": 7,
+    "time": 1434563260.7651489,
+    "vehicle": "f5d78a6b"
+  },
+  {
+    "region": 8,
+    "time": 1434547149.8052793,
+    "vehicle": "06074b69"
+  },
+  {
+    "region": 7,
+    "time": 1434563889.9769688,
+    "vehicle": "83f447b5"
+  },
+  {
+    "region": 8,
+    "time": 1434554721.4619155,
+    "vehicle": "14ffd2fa"
+  },
+  {
+    "region": 7,
+    "time": 1434573860.6838622,
+    "vehicle": "a2a185eb"
+  },
+  {
+    "region": 3,
+    "time": 1434557192.136297,
+    "vehicle": "902cd13a"
+  },
+  {
+    "region": 7,
+    "time": 1434545493.8926628,
+    "vehicle": "5eacc46c"
+  },
+  {
+    "region": 3,
+    "time": 1434552954.6596146,
+    "vehicle": "e4009f67"
+  },
+  {
+    "region": 8,
+    "time": 1434553488.84765,
+    "vehicle": "6057c81b"
+  },
+  {
+    "region": 8,
+    "time": 1434553206.4239721,
+    "vehicle": "cccfe300"
+  },
+  {
+    "region": 7,
+    "time": 1434552663.639078,
+    "vehicle": "7f0ba189"
+  },
+  {
+    "region": 7,
+    "time": 1434543661.526914,
+    "vehicle": "c6bba8aa"
+  },
+  {
+    "region": 3,
+    "time": 1434553481.8583732,
+    "vehicle": "5465f574"
+  },
+  {
+    "region": 4,
+    "time": 1434567787.3654714,
+    "vehicle": "7b1cd139"
+  },
+  {
+    "region": 3,
+    "time": 1434543868.042281,
+    "vehicle": "5d9c8b55"
+  },
+  {
+    "region": 7,
+    "time": 1434576611.6698472,
+    "vehicle": "8ca29eb3"
+  },
+  {
+    "region": 4,
+    "time": 1434561698.025966,
+    "vehicle": "54a48116"
+  },
+  {
+    "region": 8,
+    "time": 1434558413.158736,
+    "vehicle": "df7ed65f"
+  },
+  {
+    "region": 8,
+    "time": 1434549533.6794672,
+    "vehicle": "44d5a58c"
+  },
+  {
+    "region": 2,
+    "time": 1434573837.4459047,
+    "vehicle": "a554e625"
+  },
+  {
+    "region": 7,
+    "time": 1434561041.6448894,
+    "vehicle": "28c469f0"
+  },
+  {
+    "region": 4,
+    "time": 1434545028.8844469,
+    "vehicle": "328dad79"
+  },
+  {
+    "region": 3,
+    "time": 1434551181.090943,
+    "vehicle": "04fe6750"
+  },
+  {
+    "region": 1,
+    "time": 1434556000.1065848,
+    "vehicle": "12fca2f7"
+  },
+  {
+    "region": 8,
+    "time": 1434561787.4994197,
+    "vehicle": "d3b4f40b"
+  },
+  {
+    "region": 1,
+    "time": 1434553598.3783233,
+    "vehicle": "6f93acd9"
+  },
+  {
+    "region": 3,
+    "time": 1434561783.901029,
+    "vehicle": "d3b4f40b"
+  },
+  {
+    "region": 5,
+    "time": 1434544078.7849395,
+    "vehicle": "18c33e8f"
+  },
+  {
+    "region": 1,
+    "time": 1434552258.472327,
+    "vehicle": "190ff0f1"
+  },
+  {
+    "region": 2,
+    "time": 1434548480.8556604,
+    "vehicle": "efb74415"
+  },
+  {
+    "region": 3,
+    "time": 1434542722.4592519,
+    "vehicle": "e9febd97"
+  },
+  {
+    "region": 6,
+    "time": 1434557651.97071,
+    "vehicle": "5eacc46c"
+  },
+  {
+    "region": 7,
+    "time": 1434563815.0993497,
+    "vehicle": "64dbd6f0"
+  },
+  {
+    "region": 5,
+    "time": 1434574166.880228,
+    "vehicle": "f7242538"
+  },
+  {
+    "region": 6,
+    "time": 1434552686.4766684,
+    "vehicle": "79642d23"
+  },
+  {
+    "region": 1,
+    "time": 1434545150.521343,
+    "vehicle": "8f3ff020"
+  },
+  {
+    "region": 8,
+    "time": 1434561707.49003,
+    "vehicle": "75c13c4e"
+  },
+  {
+    "region": 4,
+    "time": 1434554501.712309,
+    "vehicle": "98502693"
+  },
+  {
+    "region": 5,
+    "time": 1434550343.590314,
+    "vehicle": "4e9f8488"
+  },
+  {
+    "region": 8,
+    "time": 1434570481.89279,
+    "vehicle": "63dee3ed"
+  },
+  {
+    "region": 4,
+    "time": 1434544943.6680346,
+    "vehicle": "d6d639b2"
+  },
+  {
+    "region": 5,
+    "time": 1434556001.1607044,
+    "vehicle": "12fca2f7"
+  },
+  {
+    "region": 4,
+    "time": 1434559281.561557,
+    "vehicle": "e104e8cf"
+  },
+  {
+    "region": 7,
+    "time": 1434545658.6391704,
+    "vehicle": "810c6dbe"
+  },
+  {
+    "region": 2,
+    "time": 1434575015.5871825,
+    "vehicle": "f1c013b1"
+  },
+  {
+    "region": 4,
+    "time": 1434563886.4232135,
+    "vehicle": "83f447b5"
+  },
+  {
+    "region": 3,
+    "time": 1434567375.2868745,
+    "vehicle": "9d4c677d"
+  },
+  {
+    "region": 1,
+    "time": 1434572436.309938,
+    "vehicle": "378b80eb"
+  },
+  {
+    "region": 8,
+    "time": 1434556093.5585353,
+    "vehicle": "f9639480"
+  },
+  {
+    "region": 5,
+    "time": 1434553482.4611166,
+    "vehicle": "5465f574"
+  },
+  {
+    "region": 8,
+    "time": 1434542441.7119687,
+    "vehicle": "0b7360ed"
+  },
+  {
+    "region": 6,
+    "time": 1434550373.04522,
+    "vehicle": "04a0b10e"
+  },
+  {
+    "region": 2,
+    "time": 1434550318.9213266,
+    "vehicle": "9d68f799"
+  },
+  {
+    "region": 7,
+    "time": 1434572030.8710303,
+    "vehicle": "9c87aa42"
+  },
+  {
+    "region": 5,
+    "time": 1434573142.650301,
+    "vehicle": "1696c4ec"
+  },
+  {
+    "region": 1,
+    "time": 1434549278.9371097,
+    "vehicle": "68a573e0"
+  },
+  {
+    "region": 4,
+    "time": 1434569345.1970055,
+    "vehicle": "b2fa9b9d"
+  },
+  {
+    "region": 7,
+    "time": 1434553662.0647542,
+    "vehicle": "13d11705"
+  },
+  {
+    "region": 8,
+    "time": 1434548857.0383193,
+    "vehicle": "0d240aaf"
+  },
+  {
+    "region": 6,
+    "time": 1434572439.1365664,
+    "vehicle": "378b80eb"
+  },
+  {
+    "region": 2,
+    "time": 1434561707.2636824,
+    "vehicle": "75c13c4e"
+  },
+  {
+    "region": 1,
+    "time": 1434563259.9501586,
+    "vehicle": "f5d78a6b"
+  },
+  {
+    "region": 5,
+    "time": 1434559299.2844703,
+    "vehicle": "0bba987d"
+  },
+  {
+    "region": 2,
+    "time": 1434567478.90533,
+    "vehicle": "5ffa0942"
+  },
+  {
+    "region": 4,
+    "time": 1434556896.1329198,
+    "vehicle": "e78dfdf1"
+  },
+  {
+    "region": 2,
+    "time": 1434562139.385907,
+    "vehicle": "c7fe346e"
+  },
+  {
+    "region": 6,
+    "time": 1434563075.9490612,
+    "vehicle": "48c60ce3"
+  },
+  {
+    "region": 4,
+    "time": 1434547145.9229114,
+    "vehicle": "06074b69"
+  },
+  {
+    "region": 6,
+    "time": 1434542724.5381033,
+    "vehicle": "e9febd97"
+  },
+  {
+    "region": 4,
+    "time": 1434557649.7871284,
+    "vehicle": "5eacc46c"
+  },
+  {
+    "region": 4,
+    "time": 1434556968.2770863,
+    "vehicle": "a2952105"
+  },
+  {
+    "region": 7,
+    "time": 1434556897.2477057,
+    "vehicle": "e78dfdf1"
+  },
+  {
+    "region": 6,
+    "time": 1434553359.5110745,
+    "vehicle": "d6920623"
+  },
+  {
+    "region": 8,
+    "time": 1434561698.6467516,
+    "vehicle": "54a48116"
+  },
+  {
+    "region": 3,
+    "time": 1434561037.6364331,
+    "vehicle": "28c469f0"
+  },
+  {
+    "region": 6,
+    "time": 1434553601.9921467,
+    "vehicle": "6f93acd9"
+  },
+  {
+    "region": 6,
+    "time": 1434569889.993948,
+    "vehicle": "c9e53164"
+  },
+  {
+    "region": 1,
+    "time": 1434543176.4698176,
+    "vehicle": "2c040ebc"
+  },
+  {
+    "region": 3,
+    "time": 1434544075.352858,
+    "vehicle": "18c33e8f"
+  },
+  {
+    "region": 4,
+    "time": 1434561254.6727326,
+    "vehicle": "4ba33c37"
+  },
+  {
+    "region": 7,
+    "time": 1434549281.9339123,
+    "vehicle": "68a573e0"
+  },
+  {
+    "region": 2,
+    "time": 1434572028.71214,
+    "vehicle": "9c87aa42"
+  },
+  {
+    "region": 7,
+    "time": 1434548003.9924743,
+    "vehicle": "1bed88d7"
+  },
+  {
+    "region": 6,
+    "time": 1434551502.3576405,
+    "vehicle": "aab02a3e"
+  },
+  {
+    "region": 4,
+    "time": 1434548218.1949236,
+    "vehicle": "7dc7dd3b"
+  },
+  {
+    "region": 2,
+    "time": 1434547881.6422052,
+    "vehicle": "f7ec6ecb"
+  },
+  {
+    "region": 5,
+    "time": 1434567483.1084037,
+    "vehicle": "5ffa0942"
+  },
+  {
+    "region": 1,
+    "time": 1434542437.635009,
+    "vehicle": "0b7360ed"
+  },
+  {
+    "region": 7,
+    "time": 1434548222.42868,
+    "vehicle": "7dc7dd3b"
+  },
+  {
+    "region": 4,
+    "time": 1434578283.579285,
+    "vehicle": "64314914"
+  },
+  {
+    "region": 8,
+    "time": 1434551125.796667,
+    "vehicle": "a51b612f"
+  },
+  {
+    "region": 5,
+    "time": 1434572003.0638986,
+    "vehicle": "d5f2f451"
+  },
+  {
+    "region": 3,
+    "time": 1434553486.8021321,
+    "vehicle": "6057c81b"
+  },
+  {
+    "region": 4,
+    "time": 1434551501.2041225,
+    "vehicle": "aab02a3e"
+  },
+  {
+    "region": 3,
+    "time": 1434547927.5631695,
+    "vehicle": "eb4eec44"
+  },
+  {
+    "region": 7,
+    "time": 1434569346.759728,
+    "vehicle": "b2fa9b9d"
+  },
+  {
+    "region": 2,
+    "time": 1434571761.344477,
+    "vehicle": "eae8b9bc"
+  },
+  {
+    "region": 4,
+    "time": 1434563072.3422997,
+    "vehicle": "48c60ce3"
+  },
+  {
+    "region": 7,
+    "time": 1434551474.6622434,
+    "vehicle": "78138b86"
+  },
+  {
+    "region": 7,
+    "time": 1434575017.847682,
+    "vehicle": "f1c013b1"
+  },
+  {
+    "region": 4,
+    "time": 1434572158.4444418,
+    "vehicle": "05223ddf"
+  },
+  {
+    "region": 1,
+    "time": 1434559294.4973438,
+    "vehicle": "0bba987d"
+  },
+  {
+    "region": 4,
+    "time": 1434567744.9196987,
+    "vehicle": "3b90d2ec"
+  },
+  {
+    "region": 3,
+    "time": 1434561665.8168375,
+    "vehicle": "5b52e834"
+  },
+  {
+    "region": 5,
+    "time": 1434567378.9576497,
+    "vehicle": "9d4c677d"
+  },
+  {
+    "region": 7,
+    "time": 1434571761.4412696,
+    "vehicle": "eae8b9bc"
+  },
+  {
+    "region": 6,
+    "time": 1434567789.8104942,
+    "vehicle": "7b1cd139"
+  },
+  {
+    "region": 3,
+    "time": 1434553287.8949168,
+    "vehicle": "a840affd"
+  },
+  {
+    "region": 7,
+    "time": 1434554504.1214135,
+    "vehicle": "98502693"
+  },
+  {
+    "region": 7,
+    "time": 1434547885.8215363,
+    "vehicle": "f7ec6ecb"
+  },
+  {
+    "region": 5,
+    "time": 1434547145.1953375,
+    "vehicle": "425e9134"
+  },
+  {
+    "region": 6,
+    "time": 1434562433.9506533,
+    "vehicle": "b24984ef"
+  },
+  {
+    "region": 3,
+    "time": 1434555993.2343843,
+    "vehicle": "d2ab3b6a"
+  },
+  {
+    "region": 4,
+    "time": 1434543657.9327557,
+    "vehicle": "c6bba8aa"
+  },
+  {
+    "region": 3,
+    "time": 1434545656.6982841,
+    "vehicle": "810c6dbe"
+  },
+  {
+    "region": 6,
+    "time": 1434559108.6566079,
+    "vehicle": "db897666"
+  },
+  {
+    "region": 2,
+    "time": 1434547765.1932826,
+    "vehicle": "de5d0080"
+  },
+  {
+    "region": 4,
+    "time": 1434547835.8432863,
+    "vehicle": "41e29e92"
+  },
+  {
+    "region": 8,
+    "time": 1434546288.4008758,
+    "vehicle": "1c848b10"
+  },
+  {
+    "region": 5,
+    "time": 1434578363.5033886,
+    "vehicle": "b43fca2b"
+  }
+]

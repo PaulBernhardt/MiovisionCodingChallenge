@@ -1,0 +1,62 @@
+[
+  {
+    "region": 4,
+    "time": 1434567943.0503697,
+    "vehicle": "a51b612f"
+  },
+  {
+    "region": 2,
+    "time": 1434569670.0739846,
+    "vehicle": "5ffa0942"
+  },
+  {
+    "region": 2,
+    "time": 1434570188.4462256,
+    "vehicle": "75c13c4e"
+  },
+  {
+    "region": 4,
+    "time": 1434570855.8725026,
+    "vehicle": "5eacc46c"
+  },
+  {
+    "region": 4,
+    "time": 1434571028.1676416,
+    "vehicle": "b43fca2b"
+  },
+  {
+    "region": 1,
+    "time": 1434571030.1676416,
+    "vehicle": "c929970d"
+  },
+  {
+    "region": 7,
+    "time": 1434567944.7316782,
+    "vehicle": "a51b612f"
+  },
+  {
+    "region": 6,
+    "time": 1434569672.5443027,
+    "vehicle": "5ffa0942"
+  },
+  {
+    "region": 7,
+    "time": 1434570191.6492152,
+    "vehicle": "75c13c4e"
+  },
+  {
+    "region": 5,
+    "time": 1434570860.31745,
+    "vehicle": "5eacc46c"
+  },
+  {
+    "region": 8,
+    "time": 1434571032.6561444,
+    "vehicle": "b43fca2b"
+  },
+  {
+    "region": 7,
+    "time": 1434571032.1676416,
+    "vehicle": "c929970d"
+  }
+]
